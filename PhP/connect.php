@@ -5,7 +5,7 @@ session_start(); //Starts PhP Session
 //https://www.tutorialspoint.com/php/php_mysql_login.htm*/
 define('DB_SERVER', 'db.cs.ncl.ac.uk');
 define('DB_USERNAME', 'ComputingIA');
-define('DB_PASSWORD', 'jqC6EHdUqym7zjsg');
+define('DB_PASSWORD', 'Email r.crosby for password');
 define('DB_NAME', 'ComputingIA');
  
 /* Attempt to connect to MySQL database */
